@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         传智网课答题(支持选填)
+// @name         传智考试答题(支持选填)
 // @namespace    https://stu.ityxb.com/writePaper/busywork/*
 // @namespace    https://stu.ityxb.com/writePaper/exam/*
 // @version      3.2
