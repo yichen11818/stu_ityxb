@@ -65,8 +65,8 @@ const API_URL = 'https://openai.proxy.com/v1/chat/completions';
 
 ## 👥 贡献者
 
-- 🥔 原作者：土豆
-- 🌟 二开作者：HCG_Sky
+- 🥔 原作者：[土豆](https://greasyfork.org/zh-CN/users/733754-xiaobaidadada)
+- 🌟 二开作者：HCG_Sky(https://greasyfork.org/zh-CN/users/996508-hcg-sky)
 - ✨ 三开作者：yichen11818
 
 ## 📝 更新日志
