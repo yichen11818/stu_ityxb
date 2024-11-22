@@ -2,7 +2,7 @@
 // @name         传智考试答题(支持选填)
 // @namespace    https://stu.ityxb.com/writePaper/busywork/*
 // @namespace    https://stu.ityxb.com/writePaper/exam/*
-// @version      3.2
+// @version      3.3
 // @description  传智教育答题
 // @author       yichen11818 二开作者HCG_Sky 原作者：土豆
 // @connect      *
