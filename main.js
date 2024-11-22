@@ -9,6 +9,7 @@
 // @match        https://stu.ityxb.com/writePaper/busywork/*
 // @match        https://stu.ityxb.com/writePaper/exam/*
 // @grant        GM_xmlhttpRequest
+// @license      MIT
 // ==/UserScript==
 
 // API配置
