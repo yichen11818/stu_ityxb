@@ -26,6 +26,7 @@
    const API_KEY = ''; // 填入你的AI API密钥
    const QUESTION_API_KEY = ''; // 填入题库API密钥
    ```
+   
 
 ## 📖 使用方法
 
@@ -51,7 +52,8 @@ const API_URL = 'https://openai.proxy.com/v1/chat/completions';
 
 ### 📚 题库API
 - 需要配置题库API密钥
-- 获取方式: [待补充]
+- 题库API密钥获取:
+`https://q.icodef.com/` ![复制秘钥](image.png)
 
 ## ⚠️ 注意事项
 

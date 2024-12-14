@@ -15,7 +15,7 @@
 // API配置
 const API_KEY = ''; // 在这里填入你的AI API密钥
 const API_URL = 'https://openai.proxy.com/v1/chat/completions'; // chatgpt proxy地址 https://ai.zeroai.one/v1/chat/completions
-const QUESTION_API_URL = 'https://cx.icodef.com/wyn-nb'; // 题库接口地址 请前往获取key
+const QUESTION_API_URL = 'https://cx.icodef.com/wyn-nb'; // 题库接口地址 请前往https://q.icodef.com/ 获取key
 const QUESTION_API_KEY = ''; // 在这里填入题库API密钥
 
 // 其他全局变量
